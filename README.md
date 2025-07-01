@@ -10,5 +10,6 @@ Limitation it has is that it cannot generate images.
 <img src="https://github.com/Pie1722/Banana_Bot/blob/main/photo_2025-07-01_11-05-59.jpg?raw=true" alt="Sample Image" width="200" height="200">
 
 username: @banana_2025_bot
+
 [Telegram Bot Link](https://t.me/Banana_2025_bot)
 
