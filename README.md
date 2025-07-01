@@ -7,4 +7,4 @@ Start the bot by using /start command. This command also allows the bot to clear
 Then start chatting with the bot. It can help you with mathematics, programming etc, in short it works as meta AI of Whatsapp but for telegram.
 Limitation it has is that it cannot generate images.
 
-<img src="https://user-images.githubusercontent.com/[6b0274e3-a128-44b0-8124-2b6ad09a9311]([https://github.com/Pie1722/Banana_Bot/blob/main/photo_2025-07-01_11-05-59.jpg](https://github.com/Pie1722/Banana_Bot/blob/main/photo_2025-07-01_11-05-59.jpg?raw=true))" width="200" />
+<img src="[image-url](https://github.com/Pie1722/Banana_Bot/blob/main/photo_2025-07-01_11-05-59.jpg](https://github.com/Pie1722/Banana_Bot/blob/main/photo_2025-07-01_11-05-59.jpg?raw=true)" alt="Alt Text" width="300" height="200">
