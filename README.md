@@ -8,4 +8,3 @@ Then start chatting with the bot. It can help you with mathematics, programming 
 Limitation it has is that it cannot generate images.
 
 <img src="https://user-images.githubusercontent.com/6b0274e3-a128-44b0-8124-2b6ad09a9311" width="200" />
-![image](https://github.com/user-attachments/assets/6b0274e3-a128-44b0-8124-2b6ad09a9311)
