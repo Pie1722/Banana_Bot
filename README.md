@@ -17,7 +17,7 @@ To use pythonanywhere:
 2. Install the required libraries
 3. Run the code in console using command: python code_file.py or if it is not working try running it with specific python like: python3.10 code_file.py
 
-<img src="https://github.com/Pie1722/Banana_Bot/blob/main/banana.jpg?raw=true" alt="Bot" width="20" height="20">
+<img src="https://github.com/Pie1722/Banana_Bot/blob/main/banana.jpg?raw=true" alt="Bot" width="50" height="50">
 
 [@banana_2025_bot](https://t.me/Banana_2025_bot)
 
