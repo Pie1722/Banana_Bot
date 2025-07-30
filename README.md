@@ -22,6 +22,5 @@ To use pythonanywhere:
   <img src="https://raw.githubusercontent.com/Pie1722/Banana_Bot/main/banana.jpg" alt="Bot" width="100" height="100">
   <img src="https://github.com/Pie1722/Banana_Bot/blob/main/logo.png" alt="Bot" width="100" height="100">
 </a>
-https://github.com/Pie1722/Banana_Bot/blob/main/logo.png
 [@banana_2025_bot](https://t.me/Banana_2025_bot)
 
