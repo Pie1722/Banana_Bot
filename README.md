@@ -10,6 +10,13 @@ Then start chatting with the bot. It can help you with mathematics, programming 
 
 Limitation it has is that it cannot generate images.
 
+If you want to run the code in your server then you can use pythonanywhere's console. 
+
+To use pythonanywhere:
+1. Upload the code to your file directory in your account.
+2. Install the required libraries
+3. Run the code in console using command: python code_file.py or if it is not working try running it with specific python like: python3.10 code_file.py
+
 <img src="https://github.com/Pie1722/Banana_Bot/blob/main/photo_2025-07-01_11-05-59.jpg?raw=true" alt="Bot" width="200" height="200">
 
 [@banana_2025_bot](https://t.me/Banana_2025_bot)
